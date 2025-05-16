@@ -28,3 +28,6 @@ venv
 
 # NodeJS
 node_modules
+
+# Production ready compose file
+compose.prod*
